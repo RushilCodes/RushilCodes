@@ -1,3 +1,5 @@
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/RushilCodes/RushilCodes?utm_source=oss&utm_medium=github&utm_campaign=RushilCodes%2FRushilCodes&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 <h2 align="left">Hi 👋! My name is Rushil Gupta</h2>
 
 ###
