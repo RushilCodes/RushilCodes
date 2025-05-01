@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/RushilCodes/RushilCodes/main/3febf35c0d49c83ccddc4cfdc512d0b5.png"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/RushilCodes/RushilCodes/main/myself.png"  />
 
 ###
 
@@ -126,7 +126,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/RushilCodes/RushilCodes/main/3febf35c0d49c83ccddc4cfdc512d0b5.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/RushilCodes/RushilCodes/main/myself.png"  />
 </div>
 
 ###
